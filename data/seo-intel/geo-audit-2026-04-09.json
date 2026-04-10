@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-09",
+  "domain": "gopazo.com",
+  "keywords_checked": 12,
+  "ai_overview_present": 6,
+  "domain_cited_in_ai": 6,
+  "avg_citation_readiness": 36,
+  "pages": [
+    {
+      "url": "https://gopazo.com/blog/best-visual-merchandising-software",
+      "target_keyword": "visual merchandising software",
+      "citation_readiness_score": 49,
+      "ai_overview_cited": false,
+      "top_fix": "Add clear definition paragraph (40-60 words)"
+    },
+    {
+      "url": "https://gopazo.com/store-checklist-management",
+      "target_keyword": "store checklist app",
+      "citation_readiness_score": 36,
+      "ai_overview_cited": false,
+      "top_fix": "Add clear definition paragraph (40-60 words)"
+    },
+    {
+      "url": "https://gopazo.com",
+      "target_keyword": "gopazo homepage",
+      "citation_readiness_score": 39,
+      "ai_overview_cited": false,
+      "top_fix": "Add clear definition paragraph (40-60 words)"
+    },
+    {
+      "url": "https://gopazo.com/blog",
+      "target_keyword": "blog",
+      "citation_readiness_score": 36,
+      "ai_overview_cited": false,
+      "top_fix": "Add clear definition paragraph (40-60 words)"
+    },
+    {
+      "url": "https://gopazo.com/pricing-plans",
+      "target_keyword": "pricing plans",
+      "citation_readiness_score": 21,
+      "ai_overview_cited": false,
+      "top_fix": "Add clear definition paragraph (40-60 words)"
+    }
+  ],
+  "competitor_ai_visibility": {
+    "yoobic.com": 2,
+    "zenput.com": 1,
+    "iwd.io": 1,
+    "flagship.io": 1
+  },
+  "ai_crawlers": {
+    "GPTBot": "allowed",
+    "ClaudeBot": "allowed",
+    "PerplexityBot": "allowed"
+  },
+  "recommendations": [
+    "Add clear definition paragraphs (40-60 words) to top pages",
+    "Allow GPTBot/ClaudeBot/PerplexityBot in robots.txt",
+    "Add FAQPage schema to blog posts",
+    "Increase external citations to authoritative sources"
+  ]
+}

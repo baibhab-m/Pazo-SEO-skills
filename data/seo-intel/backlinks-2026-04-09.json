@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-09",
+  "domains": {
+    "gopazo.com": {
+      "backlinks": 1107,
+      "referring_domains": 479,
+      "rank": 197,
+      "dofollow_ratio": 0,
+      "domain_type": "",
+      "target_spam_score": 0,
+      "first_seen": "2019-01-18 04:21:46 +00:00",
+      "last_updated": ""
+    },
+    "yoobic.com": {
+      "backlinks": 3791,
+      "referring_domains": 1230,
+      "rank": 280,
+      "dofollow_ratio": 0,
+      "domain_type": "",
+      "target_spam_score": 0,
+      "first_seen": "2019-01-16 14:39:06 +00:00",
+      "last_updated": ""
+    },
+    "zenput.com": {
+      "backlinks": 11639,
+      "referring_domains": 699,
+      "rank": 331,
+      "dofollow_ratio": 0,
+      "domain_type": "",
+      "target_spam_score": 0,
+      "first_seen": "2019-01-19 14:58:51 +00:00",
+      "last_updated": ""
+    },
+    "planohero.com": {
+      "backlinks": 4664,
+      "referring_domains": 316,
+      "rank": 279,
+      "dofollow_ratio": 0,
+      "domain_type": "",
+      "target_spam_score": 0,
+      "first_seen": "2019-09-19 11:40:47 +00:00",
+      "last_updated": ""
+    },
+    "flagship.io": {
+      "backlinks": 11882,
+      "referring_domains": 381,
+      "rank": 310,
+      "dofollow_ratio": 0,
+      "domain_type": "",
+      "target_spam_score": 0,
+      "first_seen": "2021-05-08 07:58:30 +00:00",
+      "last_updated": ""
+    }
+  },
+  "link_gap": []
+}

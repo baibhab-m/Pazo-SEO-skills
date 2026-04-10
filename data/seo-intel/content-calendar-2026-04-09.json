@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-09",
+  "domain": "gopazo.com",
+  "entries": [
+    {
+      "week": 1,
+      "keyword": "visual merchandising meaning",
+      "search_volume": 320,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P1"
+    },
+    {
+      "week": 1,
+      "keyword": "what visual merchandiser do",
+      "search_volume": 320,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P1"
+    },
+    {
+      "week": 2,
+      "keyword": "visual merchandising examples",
+      "search_volume": 210,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P1"
+    },
+    {
+      "week": 2,
+      "keyword": "why it audit is important",
+      "search_volume": 170,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P1"
+    },
+    {
+      "week": 3,
+      "keyword": "what is audit software",
+      "search_volume": 50,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P1"
+    },
+    {
+      "week": 3,
+      "keyword": "what visual merchandising",
+      "search_volume": 1900,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P2"
+    },
+    {
+      "week": 4,
+      "keyword": "what is visual merchandising",
+      "search_volume": 1900,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P2"
+    },
+    {
+      "week": 4,
+      "keyword": "visual merchandising techniques",
+      "search_volume": 90,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P2"
+    },
+    {
+      "week": 5,
+      "keyword": "planogram software",
+      "search_volume": 720,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P2"
+    },
+    {
+      "week": 5,
+      "keyword": "what is visual merchandising in retail",
+      "search_volume": 70,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P2"
+    },
+    {
+      "week": 6,
+      "keyword": "mobile retail execution software",
+      "search_volume": 20,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    },
+    {
+      "week": 6,
+      "keyword": "why is visual merchandising important",
+      "search_volume": 20,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    },
+    {
+      "week": 7,
+      "keyword": "why visual merchandising is important",
+      "search_volume": 20,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    },
+    {
+      "week": 7,
+      "keyword": "retail execution management software",
+      "search_volume": 20,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    },
+    {
+      "week": 8,
+      "keyword": "retail merchandising software",
+      "search_volume": 90,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    },
+    {
+      "week": 8,
+      "keyword": "retail execution software",
+      "search_volume": 110,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    },
+    {
+      "week": 9,
+      "keyword": "planogram software for retail",
+      "search_volume": 140,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    },
+    {
+      "week": 9,
+      "keyword": "retail planogram software",
+      "search_volume": 140,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    },
+    {
+      "week": 10,
+      "keyword": "retail store planogram software",
+      "search_volume": 140,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    },
+    {
+      "week": 10,
+      "keyword": "planogram software for retail store",
+      "search_volume": 140,
+      "intent": "I",
+      "format": "guide",
+      "priority": "P3"
+    }
+  ]
+}

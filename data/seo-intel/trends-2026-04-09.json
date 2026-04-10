@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-09",
+  "trends": {
+    "visual merchandising software": {
+      "current": 6,
+      "avg": 2.4,
+      "trend": "growing",
+      "min": 0,
+      "max": 18
+    },
+    "retail execution software": {
+      "current": 13,
+      "avg": 11.68,
+      "trend": "growing",
+      "min": 0,
+      "max": 88
+    },
+    "planogram software": {
+      "current": 16,
+      "avg": 11.45,
+      "trend": "growing",
+      "min": 0,
+      "max": 25
+    },
+    "store audit software": {
+      "current": 15,
+      "avg": 25.43,
+      "trend": "growing",
+      "min": 0,
+      "max": 100
+    },
+    "gopazo": {
+      "current": 1,
+      "avg": 0.04,
+      "trend": "growing",
+      "min": 0,
+      "max": 1
+    },
+    "yoobic": {
+      "current": 33,
+      "avg": 39.68,
+      "trend": "growing",
+      "min": 18,
+      "max": 100
+    },
+    "zenput": {
+      "current": 34,
+      "avg": 36.08,
+      "trend": "declining",
+      "min": 20,
+      "max": 72
+    }
+  },
+  "rising_queries": [],
+  "top_rising": []
+}

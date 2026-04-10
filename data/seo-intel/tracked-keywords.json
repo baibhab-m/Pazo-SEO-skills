@@ -1,0 +1,438 @@
+{
+  "last_updated": "2026-04-09",
+  "domain": "gopazo.com",
+  "keywords": [
+    {
+      "keyword": "what is visual merchandising",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 1900,
+      "difficulty": 0
+    },
+    {
+      "keyword": "retail audit software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 90,
+      "difficulty": 0
+    },
+    {
+      "keyword": "retail store audit software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 90,
+      "difficulty": 0
+    },
+    {
+      "keyword": "planogram software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 720,
+      "difficulty": 25
+    },
+    {
+      "keyword": "retail execution management software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 20,
+      "difficulty": 1
+    },
+    {
+      "keyword": "frontline workforce management",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 20,
+      "difficulty": 0
+    },
+    {
+      "keyword": "retail merchandising software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 90,
+      "difficulty": 5
+    },
+    {
+      "keyword": "retail execution software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 110,
+      "difficulty": 7
+    },
+    {
+      "keyword": "planogram software for retail store",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 140,
+      "difficulty": 12
+    },
+    {
+      "keyword": "planogram software for retail",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 140,
+      "difficulty": 12
+    },
+    {
+      "keyword": "retail compliance software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 40,
+      "difficulty": 4
+    },
+    {
+      "keyword": "planogram compliance software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 20,
+      "difficulty": 2
+    },
+    {
+      "keyword": "retail execution software market",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 0
+    },
+    {
+      "keyword": "store audit software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 0
+    },
+    {
+      "keyword": "store audit example",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 0
+    },
+    {
+      "keyword": "retail operations software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 90,
+      "difficulty": 11
+    },
+    {
+      "keyword": "software for visual merchandising",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 90,
+      "difficulty": 13
+    },
+    {
+      "keyword": "visual merchandising software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 90,
+      "difficulty": 13
+    },
+    {
+      "keyword": "store audit checklist",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 30,
+      "difficulty": 3
+    },
+    {
+      "keyword": "importance of planogram",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 0
+    },
+    {
+      "keyword": "store audit procedures",
+      "category": "geo",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 0
+    },
+    {
+      "keyword": "frontline workforce meaning",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 0
+    },
+    {
+      "keyword": "frontline management meaning",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 0
+    },
+    {
+      "keyword": "gopazo",
+      "category": "brand",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 0
+    },
+    {
+      "keyword": "visual merchandising checklist",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 0
+    },
+    {
+      "keyword": "retail task management software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 50,
+      "difficulty": 12
+    },
+    {
+      "keyword": "store opening checklist",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "high",
+      "search_volume": 50,
+      "difficulty": 6
+    },
+    {
+      "keyword": "what is retail execution",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 20,
+      "difficulty": 3
+    },
+    {
+      "keyword": "dotactiv planogram software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 20,
+      "difficulty": 5
+    },
+    {
+      "keyword": "planogram software free",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 40,
+      "difficulty": 42
+    },
+    {
+      "keyword": "best planogram software",
+      "category": "head-to-head",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 20,
+      "difficulty": 14
+    },
+    {
+      "keyword": "best retail execution software",
+      "category": "head-to-head",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 9
+    },
+    {
+      "keyword": "planogram design software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 10
+    },
+    {
+      "keyword": "what is planogram software",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 6
+    },
+    {
+      "keyword": "what is a planogram examples",
+      "category": "problem-aware",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 6
+    },
+    {
+      "keyword": "visual merchandising planogram software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 20,
+      "difficulty": 32
+    },
+    {
+      "keyword": "planogram software for visual merchandising",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 20,
+      "difficulty": 32
+    },
+    {
+      "keyword": "store planogram software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 19
+    },
+    {
+      "keyword": "planogram creation software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 24
+    },
+    {
+      "keyword": "visual merchandising software free",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 43
+    },
+    {
+      "keyword": "planogram builder software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 29
+    },
+    {
+      "keyword": "grocery planogram software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 36
+    },
+    {
+      "keyword": "top planogram software",
+      "category": "head-to-head",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 43
+    },
+    {
+      "keyword": "frontline employee management",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 39
+    },
+    {
+      "keyword": "visual retailing software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 57
+    },
+    {
+      "keyword": "apollo planogram software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 37
+    },
+    {
+      "keyword": "iwd planogram software",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 54
+    },
+    {
+      "keyword": "planogram software spaceman",
+      "category": "core",
+      "source": "seed",
+      "added": "2026-04-09",
+      "priority": "medium",
+      "search_volume": 10,
+      "difficulty": 57
+    }
+  ]
+}

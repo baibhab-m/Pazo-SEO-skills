@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-09",
+  "domain": "gopazo.com",
+  "lighthouse": {
+    "score": 37,
+    "lcp_ms": 21160,
+    "cls": 0.0,
+    "tbt_ms": 815
+  },
+  "onpage": {
+    "homepage": {
+      "url": "https://gopazo.com",
+      "score": 66,
+      "possible": 100,
+      "factors": {
+        "title": 8,
+        "meta_description": 5,
+        "h1": 0,
+        "heading_hierarchy": 7,
+        "schema": 7,
+        "canonical": 5,
+        "og_tags": 10,
+        "viewport": 10,
+        "https": 10,
+        "internal_links": 4
+      },
+      "title": "Pazo - AI Powered Visual Merchandising &amp; Task Management",
+      "h1_count": 0,
+      "schema_types": [
+        "Organization",
+        "SoftwareApplication",
+        "FAQPage"
+      ]
+    },
+    "blog": {
+      "url": "https://gopazo.com/blog",
+      "score": 60,
+      "possible": 100,
+      "factors": {
+        "title": 5,
+        "meta_description": 5,
+        "h1": 4,
+        "heading_hierarchy": 3,
+        "schema": 4,
+        "canonical": 5,
+        "og_tags": 10,
+        "viewport": 10,
+        "https": 10,
+        "internal_links": 4
+      },
+      "title": "Blog - Pazo",
+      "h1_count": 1,
+      "schema_types": []
+    },
+    "pricing": {
+      "url": "https://gopazo.com/pricing-plans",
+      "score": 63,
+      "possible": 100,
+      "factors": {
+        "title": 8,
+        "meta_description": 5,
+        "h1": 4,
+        "heading_hierarchy": 3,
+        "schema": 4,
+        "canonical": 5,
+        "og_tags": 10,
+        "viewport": 10,
+        "https": 10,
+        "internal_links": 4
+      },
+      "title": "Pricing &amp; Subscription Plans - Pazo",
+      "h1_count": 1,
+      "schema_types": []
+    },
+    "checklist": {
+      "url": "https://gopazo.com/store-checklist-management",
+      "score": 63,
+      "possible": 100,
+      "factors": {
+        "title": 8,
+        "meta_description": 5,
+        "h1": 4,
+        "heading_hierarchy": 3,
+        "schema": 4,
+        "canonical": 5,
+        "og_tags": 10,
+        "viewport": 10,
+        "https": 10,
+        "internal_links": 4
+      },
+      "title": "Pazo - FM Retail Checklist and Store Management",
+      "h1_count": 1,
+      "schema_types": []
+    }
+  }
+}
